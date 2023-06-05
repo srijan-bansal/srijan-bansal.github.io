@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Santa Clara, California, United States</p>
+    <p>California, United States</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
