@@ -366,7 +366,7 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
-
+enable_workex_logos:        true 
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
