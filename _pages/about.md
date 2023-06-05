@@ -8,11 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Room 36-776A</p>
-    <p>50 Vassar St. </p>
-    <p>(MIT building 36) </p>
-    <p>Cambridge, MA 02139</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,19 +15,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am currently a fifth-year Ph.D. student at MIT majoring in Electrical Engineering and Computer Science.
+
+Hi! I am a graduate student (Master in Langauge Technologies) at the [Language Technologies Institute](https://lti.cs.cmu.edu/), at the School of Computer Science,[Carnegie Mellon University](www.cmu.edu). I am fortunate to be advised by [Eric Nyberg](http://www.cs.cmu.edu/~ehn/). 
+
+I interned at [Salesforce](https://www.salesforceairesearch.com/) this summer where I worked on parameter-efficient modeling for Unified Question-Answering. Prior to CMU, I worked as a Data Scientist at [Hitachi Vantara](https://www.hitachivantara.com/en-us/home.html). I received B.Tech. in Electronics and Electrical Communication Engineering with a minor in Computer Science from the [Indian Institute of Technology, Kharagpur](http://www.iitkgp.ac.in/). I was a member of [CNeRG](https://cnerg-iitkgp.github.io/) group at IIT-Kharagpur where I worked with [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). In the past, I have worked as a research intern at [EPFL](https://www.epfl.ch/labs/mlo/) and [Hitachi R&D](https://www.hitachi.com/rd/index.html).
+
+I come from Allahabad (India) known for the confluence of three ancient rivers. I enjoy collecting stamps, swimming, playing waterpolo, biking, hiking, solo traveling, and star gazing.
+
+More information about my work experience, publications, and academic service can be found in my [CV](https://github.com/srijan-bansal/srijan-bansal.github.io/blob/master/files/CV_Srijan_Bansal__04_23_.pdf). I am best reached by email at [srijanb@andrew.cmu.edu](srijanb@andrew.cmu.edu). Feel free to reach out about my research or anything else I might be able to help with.
+
+
+
+<!-- 
 My research focuses on machine learning and developing robust and efficient algorithms driven by clinical problems.
 Applications include motion-robust 3D rendering of the human brain, real-time quality assessment in MR scans as well as pose estimation and motion characterization of fetuses.
 I am advised by Prof. [Elfar Adalsteinsson](https://www.rle.mit.edu/people/directory/elfar-adalsteinsson/) and collaborate closely with Prof. [Polina Golland](https://people.csail.mit.edu/polina/) and Prof. [P. Ellen Grant](https://scholar.google.com/citations?user=W4dqZ7EAAAAJ).
 
 I also did summer internships at Google and Meta, working on automated Ads bidding and large-scale video recommendation systems respectively.
 
-Prior to MIT, I received my Bachelor's degree from Tsinghua University in 2018. I also spent a summer as a research assistant at Stanford, where I was advised by Prof. [John Pauly](https://web.stanford.edu/~pauly/) and Prof. [Greg Zaharchuk](https://profiles.stanford.edu/greg-zaharchuk).
-
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+Prior to MIT, I received my Bachelor's degree from Tsinghua University in 2018. I also spent a summer as a research assistant at Stanford, where I was advised by Prof. [John Pauly](https://web.stanford.edu/~pauly/) and Prof. [Greg Zaharchuk](https://profiles.stanford.edu/greg-zaharchuk). -->
