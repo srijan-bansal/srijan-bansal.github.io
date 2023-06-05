@@ -2,39 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
-    #- name: Date of Birth
-    #  value: 14th March 1879
+      value: Srijan Bansal
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: srijanb [at] cs [dot] cmu [dot] edu
     - name: Languages
-      value: English, Chinese
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2023
-    - title: S.M. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2020
-      #description:
-      #  - Description 1.
-      #  - Description 2.
-    - title: B.E. in Engineering Physics
-      institution: Tsinghua University
-      year: 2014 - 2018
-      #description:
-      #  - Description 1.
-      #  - Description 2.
+    - title: M.S. in Computer Science (Language Technologies)
+      institution: Carnegie Mellon University 
+      year: 2021 - 2023
+    - title: B. Tech. in Electronics and Electrical Communication Engineering (Major) & Computer Science (Minor)
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2016 - 2020
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: Massachusetts Institute of Technology
-      year: 2018 - present
+      year: Aug 2021 - May 2023
       description:
         - 2D-to-3D reconstruction
         - Image quality assessment
