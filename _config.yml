@@ -78,7 +78,7 @@ twitter_username: Srijanbansal1 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: srijan-bansal # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qNk6tgcAAAAJ # your Google Scholar ID
+scholar_userid: r7dUAAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -113,7 +113,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-NYJ88YK0VS # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-1HQZB1E1Z8 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: MARJu3erA7Z6jybcmR5fgSNRNtCNYMAYkk0jidGGr8A # your google-site-verification ID (Google Search Console)
