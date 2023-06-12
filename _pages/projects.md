@@ -4,9 +4,9 @@ title: projects
 permalink: /projects/
 description: A comprehensive list of all of my recent projects.
 nav: true
-nav_order: 2
-display_categories: [LLMs, PEFT]
-horizontal: false
+<!-- nav_order: 2 -->
+<!-- display_categories: [LLMs, PEFT] -->
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
