@@ -31,68 +31,57 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
-      institution: Massachusetts Institute of Technology
-      year: Aug 2021 - May 2023
+    - title: Applied Scientist Intern
+      institution: Amazon AWS (Lex Team)
+      year: May - Aug 2023
       description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
+        - Adaptation-aware Large Language Model (LLM) compression using low-rank attention-head factorization
+    - title: Research Intern
+      institution: Salesforce Research
       year: May - Aug 2022
       description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
-      year: Jun - Aug 2021
+        - Thorough examination of soft prompt tuning towards unified question answering under a low-resource setting
+    - title: Graduate Research Assistant
+      institution: Carnegie Mellon University
+      year: Aug 2021 - Aug 2023
       description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
+        - Knowledge-grounded conversational question answering in open-domain setting; parameter-efficient training methods
+    - title: Data Scientist
+      institution: Hitachi Vantara
+      year: Apr 2020 - July 2021
       description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
+        - Designed platform to assist DevOps teams to optimize and localize the root cause of issues in containerized applications
+    - title: Research Intern 
+      institution: EPFL (Machine Learning and Optimization Lab)
+      year: May - July 2019
       description:
-        - Low dose PET reconstruction with deep learning
+        - Designed momentum-based learning rate scheduler for black-box (zero-order) stochastic convex optimization
+    - title: Research Intern 
+      institution: Hitachi Ltd., R&D Team (Centre for Technology Innovation)
+      year: Dec 2018 - Jan 2019
+      description:
+        - Explored the applicability of multi-layered capsule neural networks for object recognition and semantic disentanglement
+    - title: Research Intern 
+      institution: IIIT-Allahabad
+      year: Jun - July 2018
+      description:
+        - Flexible framework to implement stacked bi-directional LSTM models for image captioning with ResNet architecture      
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant 
+      institution: 11797 Question Answering (CMU)
+      year: Spring 2023
+      description:
+        - Designed & graded course assignments; mentored course projects for several teams
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Academic Achievements
+  type: list
+  contents:
+    -  First place in the Multidoc2dial shared task (unseen-setting) at the Dialdoc Workshop in ACL 2022.
+    - Research fellowship provided by CMU includes full tuition coverage and a stipend for the Master’s program. (2021-2023) ◦ Awarded for best student of B.Tech (ECE) having a mix of academic and research potential at the end of 4 years.
+    - Young Researchers’ Symposium Special Mention Award for short paper at CoDS-COMAD 2019 Conference
+    - Scholarship recipient for Kishore Vaigyanik Protsahan Yojana-2016 and National Talent Search Exam-2014
 
