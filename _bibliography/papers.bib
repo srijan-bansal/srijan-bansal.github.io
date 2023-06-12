@@ -5,6 +5,7 @@ year={2023},
 arXiv="2305.14569",
 journal={arXiv preprint arXiv:2305.14569},
 abbr="arxiv",
+selected={true},
 abstract = {Question-answering (QA) tasks often investigate specific question types, knowledge domains, or reasoning skills, leading to specialized models catering to specific categories of QA tasks. While recent research has explored the idea of unified QA models, such models are usually explored for high-resource scenarios and require re-training to extend their capabilities. To overcome these drawbacks, the paper explores the potential of two paradigms of tuning, model, and prompts, for unified QA under a low-resource setting. The paper provides an exhaustive analysis of their applicability using 16 QA datasets, revealing that prompt tuning can perform as well as model tuning in a few-shot setting with a good initialization. The study also shows that parameter-sharing results in superior few-shot performance, simple knowledge transfer techniques for prompt initialization can be effective, and prompt tuning achieves a significant performance boost from pre-training in a low-resource regime. The research offers insights into the advantages and limitations of prompt tuning for unified QA in a few-shot setting, contributing to the development of effective and efficient systems in low-resource scenarios.},
 }
 
@@ -24,7 +25,8 @@ abstract = {Question-answering (QA) tasks often investigate specific question ty
     pages = "10243--10255",
     abbr="EMNLP",
     poster = "procs_poster.pdf",
-    code="https://github.com/srijan-bansal/PRO-CS",    
+    code="https://github.com/srijan-bansal/PRO-CS",
+    selected={true},
     abstract = "Code-switched (CS) data is ubiquitous in today's globalized world, but the dearth of annotated datasets in code-switching poses a significant challenge for learning diverse tasks across different language pairs. Parameter-efficient prompt-tuning approaches conditioned on frozen language models have shown promise for transfer learning in limited-resource setups. In this paper, we propose a novel instance-based prompt composition technique, PRO-CS, for CS tasks that combine language and task knowledge. We compare our approach with prompt-tuning and fine-tuning for code-switched tasks on 10 datasets across 4 language pairs. Our model outperforms the prompt-tuning approach by significant margins across all datasets and outperforms or remains at par with fine-tuning by using just 0.18{\%} of total parameters. We also achieve competitive results when compared with the fine-tuned model in the low-resource cross-lingual and cross-task setting, indicating the effectiveness of our approach to incorporate new code-switched tasks.",
 }
 
@@ -49,6 +51,7 @@ abstract = {Question-answering (QA) tasks often investigate specific question ty
     poster = "Dialdoc_poster.pdf",
     code="https://github.com/srijan-bansal/R3_Mulltidoc2dial",    
     pages = "148--154",
+    selected={true},
     abstract = "In this paper, we present our submission to the DialDoc shared task based on the MultiDoc2Dial dataset. MultiDoc2Dial is a conversational question answering dataset that grounds dialogues in multiple documents. The task involves grounding a user{'}s query in a document followed by generating an appropriate response. We propose several improvements over the baseline{'}s retriever-reader architecture to aid in modeling goal-oriented dialogues grounded in multiple documents. Our proposed approach employs sparse representations for passage retrieval, a passage re-ranker, the fusion-in-decoder architecture for generation, and a curriculum learning training paradigm. Our approach shows a 12 point improvement in BLEU score compared to the baseline RAG model.",
 }
 
