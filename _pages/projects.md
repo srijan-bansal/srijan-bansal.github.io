@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A comprehensive list of all of my recent projects.
-nav: false
+nav: true
 horizontal: true
 ---
 
