@@ -143,7 +143,7 @@
   <ol class="bibliography"><li>
 <!-- _layouts/bib.html -->
 <div class="row">
-  <div class="col-sm-2 abbr"><abbr class="badge">arxiv</abbr></div>
+  <div class="col-sm-2 abbr"></div>
 
   <!-- Entry bib key -->
   <div id="bansal2023fewshot" class="col-sm-8 col-md-9">
@@ -172,7 +172,7 @@
     
     
     <div class="periodical">
-      2023
+      <em>arXiv preprint arXiv:2305.14569</em>, 2023
     </div>
     <div class="periodical">
       
@@ -180,12 +180,17 @@
 
     <!-- Links/Buttons -->
     <div class="links">
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      <a href="http://arxiv.org/abs/2305.14569" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
     </div>
     
     <div class="badges">
     </div>
 
-    
+    <!-- Hidden abstract block -->
+    <div class="abstract hidden">
+      <p>Question-answering (QA) tasks often investigate specific question types, knowledge domains, or reasoning skills, leading to specialized models catering to specific categories of QA tasks. While recent research has explored the idea of unified QA models, such models are usually explored for high-resource scenarios and require re-training to extend their capabilities. To overcome these drawbacks, the paper explores the potential of two paradigms of tuning, model, and prompts, for unified QA under a low-resource setting. The paper provides an exhaustive analysis of their applicability using 16 QA datasets, revealing that prompt tuning can perform as well as model tuning in a few-shot setting with a good initialization. The study also shows that parameter-sharing results in superior few-shot performance, simple knowledge transfer techniques for prompt initialization can be effective, and prompt tuning achieves a significant performance boost from pre-training in a low-resource regime. The research offers insights into the advantages and limitations of prompt tuning for unified QA in a few-shot setting, contributing to the development of effective and efficient systems in low-resource scenarios.</p>
+    </div>
   </div>
 </div>
 </li></ol>
