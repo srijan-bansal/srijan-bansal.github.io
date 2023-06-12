@@ -16,6 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+**Actively Seeking full-time research or machine-learning roles**
 
 Hello ! I'm currently in my final year of graduate studies, pursuing a Master's degree in Language Technologies at the [Language Technologies Institute](https://lti.cs.cmu.edu/) within the School of Computer Science at [Carnegie Mellon University](www.cmu.edu). I have the privilege of being advised by [Eric Nyberg](http://www.cs.cmu.edu/~ehn/), a distinguished professor in the field.
 
