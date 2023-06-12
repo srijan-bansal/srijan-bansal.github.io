@@ -26,7 +26,19 @@
       value: Natural Language Processing, Research, Prompt Engineering, Deep Learning, Machine Learning, Artificial Intelligence, Data Science, Transformers, Neural Networks, Hugging Face, PyTorch, Python
     - name: Interests
       value: Large Language Models (LLMs), Question Answering, Model Compression, Conversational AI, Parameter Efficient Learning, Dialogue Systems, Information Retrieval, Multimodal ML, Multilingual NLP, Code-Switching
-      
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
 
 - title: Experience
   type: time_table
@@ -74,13 +86,13 @@
       institution: 11797 Question Answering (CMU)
       year: Spring 2023
       description:
-        - Designed & graded course assignments; mentored course projects for several teams
-
+        - Designed & graded course assignments
+        - Mentored course projects for several teams
 
 - title: Academic Achievements
   type: list
   contents:
-    -  First place in the Multidoc2dial shared task (unseen-setting) at the Dialdoc Workshop in ACL 2022.
+    - First place in the Multidoc2dial shared task (unseen-setting) at the Dialdoc Workshop in ACL 2022.
     - Research fellowship provided by CMU includes full tuition coverage and a stipend for the Master’s program. (2021-2023) ◦ Awarded for best student of B.Tech (ECE) having a mix of academic and research potential at the end of 4 years.
     - Young Researchers’ Symposium Special Mention Award for short paper at CoDS-COMAD 2019 Conference
     - Scholarship recipient for Kishore Vaigyanik Protsahan Yojana-2016 and National Talent Search Exam-2014
