@@ -4,10 +4,11 @@ title: projects
 permalink: /projects/
 description: A comprehensive list of all of my recent projects.
 nav: true
-<!-- nav_order: 2 -->
-<!-- display_categories: [LLMs, PEFT] -->
 horizontal: true
 ---
+
+<!-- nav_order: 2 -->
+<!-- display_categories: [LLMs, PEFT] -->
 
 <!-- pages/projects.md -->
 <div class="projects">
