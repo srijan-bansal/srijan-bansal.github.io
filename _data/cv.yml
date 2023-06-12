@@ -18,21 +18,14 @@
       institution: Indian Institute of Technology, Kharagpur
       year: 2016 - 2020
 
-
-- title: Academic Interests
-  type: nested_list
+- title: Interests & Skills
+  type: map
   contents:
-    - title: Large Language Models (LLMs), Model Compression, Parameter Efficient Learning
-    - title: Question Answering, Information Retrieval, Conversational AI
-    - title: Multimodal ML, Multilingual NLP, Code-Switching
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Research, NLP, Prompt Engineering, Deep Learning, Machine Learning
-    - title: Transformers, Neural Networks
-    - title: Hugging Face, PyTorch, Python
-    
+    - name: Academic Interests
+      value: Large Language Models (LLMs), Model Compression, Parameter Efficient Learning, Question Answering, Information Retrieval, Conversational AI, Multimodal ML, Multilingual NLP, Code-Switching
+    - name: Skills
+      value: Research, NLP, Prompt Engineering, Deep Learning, Machine Learning, Transformers, Neural Networks, Hugging Face, PyTorch, Python
+      
 - title: Experience
   type: time_table
   contents:
