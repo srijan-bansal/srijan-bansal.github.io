@@ -19,27 +19,20 @@
       year: 2016 - 2020
 
 
-- title: Skills and Interests
-  type: map
-  contents:
-    - name: Skills
-      value: Natural Language Processing, Research, Prompt Engineering, Deep Learning, Machine Learning, Artificial Intelligence, Data Science, Transformers, Neural Networks, Hugging Face, PyTorch, Python
-    - name: Interests
-      value: Large Language Models (LLMs), Question Answering, Model Compression, Conversational AI, Parameter Efficient Learning, Dialogue Systems, Information Retrieval, Multimodal ML, Multilingual NLP, Code-Switching
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Large Language Models (LLMs), Model Compression, Parameter Efficient Learning
+    - title: Question Answering, Information Retrieval, Conversational AI
+    - title: Multimodal ML, Multilingual NLP, Code-Switching
 
-
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Research, NLP, Prompt Engineering, Deep Learning, Machine Learning
+    - title: Transformers, Neural Networks
+    - title: Hugging Face, PyTorch, Python
+    
 - title: Experience
   type: time_table
   contents:
