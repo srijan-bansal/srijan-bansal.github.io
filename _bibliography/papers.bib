@@ -7,8 +7,75 @@
 % arXiv="2006.12704",
 % poster = "iqa_poster.pdf",
 % preview = "iqa_network.png",
-% code="https://github.com/daviddmc/fetal-IQA"
+% code="https://github.com/daviddmc/fetal-IQA",
 
+@inproceedings{bansal-etal-2022-r3,
+    title = "R3 : Refined Retriever-Reader pipeline for Multidoc2dial",
+    author = "Bansal, Srijan  and
+      Tripathi, Suraj  and
+      Agarwal, Sumit  and
+      Gururaja, Sireesh  and
+      Veerubhotla, Aditya Srikanth  and
+      Dutt, Ritam  and
+      Mitamura, Teruko  and
+      Nyberg, Eric",
+    booktitle = "Proceedings of the Second DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.dialdoc-1.17",
+    doi = "10.18653/v1/2022.dialdoc-1.17",
+    abbr="Dialdoc Shared Task Winner",
+    poster = "Dialdoc_poster.pdf",
+    code="https://github.com/srijan-bansal/R3_Mulltidoc2dial",    
+    pages = "148--154",
+    abstract = "In this paper, we present our submission to the DialDoc shared task based on the MultiDoc2Dial dataset. MultiDoc2Dial is a conversational question answering dataset that grounds dialogues in multiple documents. The task involves grounding a user{'}s query in a document followed by generating an appropriate response. We propose several improvements over the baseline{'}s retriever-reader architecture to aid in modeling goal-oriented dialogues grounded in multiple documents. Our proposed approach employs sparse representations for passage retrieval, a passage re-ranker, the fusion-in-decoder architecture for generation, and a curriculum learning training paradigm. Our approach shows a 12 point improvement in BLEU score compared to the baseline RAG model.",
+}
+
+
+@inproceedings{10.1145/3465336.3475118,
+author = {Bansal, Srijan and Garimella, Vishal and Suhane, Ayush and Mukherjee, Animesh},
+title = {Debiasing Multilingual Word Embeddings: A Case Study of Three Indian Languages},
+year = {2021},
+isbn = {9781450385510},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3465336.3475118},
+doi = {10.1145/3465336.3475118},
+abstract = {In this paper, we advance the current state-of-the-art method for debiasing monolingual word embeddings so as to generalize well in a multilingual setting. We consider different methods to quantify bias and different debiasing approaches for monolingual as well as multilingual settings. We demonstrate the significance of our bias-mitigation approach on downstream NLP applications. Our proposed methods establish the state-of-the-art performance for debiasing multilingual embeddings for three Indian languages - Hindi, Bengali, and Telugu in addition to English. We believe that our work will open up new opportunities in building unbiased downstream NLP applications that are inherently dependent on the quality of the word embeddings used.},
+booktitle = {Proceedings of the 32nd ACM Conference on Hypertext and Social Media},
+pages = {27–34},
+numpages = {8},
+keywords = {multilingual gender debiasing, debiasing indian languages},
+location = {Virtual Event, USA},
+abbr="ACM Hypertext 2021",
+arXiv="2107.10181",
+slides = "debias_slides.pdf",
+code="https://github.com/srijan-bansal/Debiasing-Multilingual-Word-Embeddings-A-Case-Study-of-Three-Indian-Languages",
+series = {HT '21}
+}
+
+
+@inproceedings{bansal-etal-2020-code,
+    title = "Code-Switching Patterns Can Be an Effective Route to Improve Performance of Downstream {NLP} Applications: A Case Study of Humour, Sarcasm and Hate Speech Detection",
+    author = "Bansal, Srijan  and
+      Garimella, Vishal  and
+      Suhane, Ayush  and
+      Patro, Jasabanta  and
+      Mukherjee, Animesh",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.acl-main.96",
+    doi = "10.18653/v1/2020.acl-main.96",
+    pages = "1018--1023",
+    abbr="ACL 2020",
+    code="https://github.com/srijan-bansal/ACL20-Code-switching-patterns",    
+    abstract = "In this paper, we demonstrate how code-switching patterns can be utilised to improve various downstream NLP applications. In particular, we encode various switching features to improve humour, sarcasm and hate speech detection tasks. We believe that this simple linguistic observation can also be potentially helpful in improving other similar NLP applications.",
+}
 
 
 @inproceedings{patro-etal-2019-deep,
@@ -25,7 +92,7 @@
     doi = "10.18653/v1/D19-1663",
     pages = "6336--6342",
     abbr="EMNLP 2019",
-    poster = "sarcasm_target.pdf",
+    poster = "EMNLP2019_Sarcam_Poster.pdf",
     code="https://github.com/srijan-bansal/Sarcasm_Target_Detection-EMNLP-",
     abstract = "In this paper we propose a deep learning framework for sarcasm target detection in predefined sarcastic texts. Identification of sarcasm targets can help in many core natural language processing tasks such as aspect based sentiment analysis, opinion mining etc. To begin with, we perform an empirical study of the socio-linguistic features and identify those that are statistically significant in indicating sarcasm targets (p-values in the range(0.05,0.001)). Finally, we present a deep-learning framework augmented with socio-linguistic features to detect sarcasm targets in sarcastic book-snippets and tweets.We achieve a huge improvement in the performance in terms of exact match and dice scores compared to the current state-of-the-art baseline.",
 }
