@@ -11,12 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. in Computer Science (Language Technologies)
+    - title: M.S. in Language Technologies (Research Track)
       institution: Carnegie Mellon University 
-      year: 2021 - 2023
+      year: 2021 - 2023      
     - title: B. Tech. in Electronics and Electrical Communication Engineering (Major) & Computer Science (Minor)
       institution: Indian Institute of Technology, Kharagpur
       year: 2016 - 2020
+
+
+- title: Skills and Interests
+  type: map
+  contents:
+    - name: Skills
+      value: Natural Language Processing, Research, Prompt Engineering, Deep Learning, Machine Learning, Artificial Intelligence, Data Science, Transformers, Neural Networks, Hugging Face, PyTorch, Python
+    - name: Interests
+      value: Large Language Models (LLMs), Question Answering, Model Compression, Conversational AI, Parameter Efficient Learning, Dialogue Systems, Information Retrieval, Multimodal ML, Multilingual NLP, Code-Switching
+      
 
 - title: Experience
   type: time_table
